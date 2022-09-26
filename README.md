@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuj Mishra
 - 👀 I’m interested in learning In and outs of computer Science 
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me https://twitter.com/anujmishra199
 - ![LeetCode](https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=LeetCode&logoColor=#FFA116) https://leetcode.com/ANmishra-a/
