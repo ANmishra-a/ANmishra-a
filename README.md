@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=ANmishra-a&theme=blue-green) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANmishra-a&theme=blue-green)
+
 
 - 👋 Hi, I’m Anuj Mishra
 - 👀 I’m interested in learning, The In and outs of computer Science. 
